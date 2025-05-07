@@ -3,6 +3,7 @@ body {
   padding: 2rem;
   max-width: 600px;
   margin: auto;
+  background-color: rgb(109, 142, 142);
 }
 #chat {
   border: 1px solid #ccc;
